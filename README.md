@@ -10,3 +10,6 @@ A modern and responsive login form built with HTML and CSS.
 - Easy to customize and integrate
 ---
 
+## 🧑‍💻 Author
+
+**LOKESH K**
